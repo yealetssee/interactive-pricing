@@ -85,6 +85,7 @@ div.clipped-bg {
   letter-spacing: 2px;
   color: #848ead;
   order: 0;
+  transition: 0.2s all;
 }
 
 .price {
@@ -95,6 +96,7 @@ div.clipped-bg {
   color: #293356;
   order: 2;
   margin-top: 24px;
+  transition: 0.2s all;
 }
 
 .price .month {
