@@ -275,6 +275,7 @@ input[type="range"]:focus::-ms-thumb {
   background-color: #ffffff;
   border-radius: 50%;
   margin: 4px 4px 25px;
+  transition: 0.3s ease-out;
 }
 
 .line {
