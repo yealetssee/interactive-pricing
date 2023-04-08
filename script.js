@@ -11,7 +11,7 @@ changePricing();
 
 function changePricing() {
   var currentPrice = 16;
-  var previousPrice = 0;
+  var previousPrice = 16;
   toggle.addEventListener("click", () => {
     clicked = !clicked;
 
